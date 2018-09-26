@@ -4,3 +4,4 @@ C:\Users\jrnicho\source\repos\demo\demo\bin\demo.pdb
 C:\Users\jrnicho\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
 C:\Users\jrnicho\source\repos\demo\demo\obj\Debug\demo.dll
 C:\Users\jrnicho\source\repos\demo\demo\obj\Debug\demo.pdb
+C:\Users\jrnicho\source\repos\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
