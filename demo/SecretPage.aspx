@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SecretPage.aspx.cs" Inherits="demo.SecretPage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="SecretPage.aspx.cs" Inherits="demo.SecretPage" %>
 
 <!DOCTYPE html>
 

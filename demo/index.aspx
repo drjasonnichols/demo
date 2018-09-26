@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="demo.index" Codebehind="index.aspx.cs" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" Inherits="demo.index" CodeFile="index.aspx.cs" %>
 
 <!DOCTYPE html>
 
