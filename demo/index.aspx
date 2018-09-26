@@ -9,7 +9,15 @@
 <body>
     <form id="form1" runat="server">
         <div>
-			test
+			Here is some data pulled from a database!
+
+	<asp:SqlDataSource ID="tableData" runat="server" 
+		DataSourceMode="DataReader"
+		ConnectionString="<%$ ConnectionStrings:myDB %>"
+		SelectCommand="Select ID, Info from TestData">
+	</asp:SqlDataSource>
+	
+    <asp:GridView ID="GridView1" runat="server" DataSourceID="tableData"/>
         </div>
     </form>
 </body>
